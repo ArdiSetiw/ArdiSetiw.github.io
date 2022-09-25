@@ -129,12 +129,8 @@ td {
     background-color: white;
 }
 
-.bio {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    font-size: 20px;
-    margin: 0 50px 0 50px;
+img {
+    border: 2px solid black;
 }
 
 .fa {
